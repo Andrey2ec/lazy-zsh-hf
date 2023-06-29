@@ -6,7 +6,7 @@ inspired by https://github.com/not-poma/lazyshell
 Copy lazy-zsh-hf.zsh to ~/.oh-my-zsh/custom/plugins/lazy-zsh-hf/lazy-zsh-hf.zsh
 Edit ~/.zshenv and add 
 export HUGGING_FACE_HUB_TOKEN="h......."
-Get your TOKEN is here https://huggingface.co/settings/tokens
+Get your TOKEN here https://huggingface.co/settings/tokens
 
 # Use
 Invoke the completion with ALT+G hotkey; you still have to manually press enter to execute the suggested command.
